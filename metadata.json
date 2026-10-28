@@ -1,0 +1,6 @@
+{
+  "name": "GramConnect – Rural Last Mile Delivery",
+  "description": "Affordable, reliable, and smarter last-mile delivery connecting rural entrepreneurs in Maharashtra to bigger markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
